@@ -1,0 +1,19 @@
+{
+  "name": "project036",
+  "version": "1.0.0",
+  "description": "Employ Managment system made by using async function.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mubashir Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
